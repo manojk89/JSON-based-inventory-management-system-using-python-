@@ -1,0 +1,75 @@
+{1001;{
+    "brand":"Microsoft",
+    "version":"windows 7",
+    "price":5000,
+},
+1002;{
+    "brand":"Microsoft",
+    "version":"windows 8.1",
+    "price":15000,
+},
+1003;{
+    "brand":"Microsoft",
+    "version":"windows 10",
+    "price":5000,
+},
+1004;{
+    "brand":"Microsoft",
+    "version":"windows 11",
+    "price":6000,
+},
+1005;{
+    "brand":"Apple",
+    "version":"macos",
+    "price":20000,
+},
+1006;{
+    "brand":"Linux",
+    "version":"kali linux",
+    "price":4000,
+},
+1007;{
+    "brand":"Google",
+    "version":"chrome OS",
+    "price":4000,
+},
+1008;{
+    "brand":"Microsoft",
+    "version":"Office 365",
+    "price":5000,
+},1009;{
+    "brand":"Microsoft",
+    "version":"Excel",
+    "price":10000,
+},
+1010;{
+    "brand":"Microsoft",
+    "version":"word",
+    "price":10000,
+},
+1011;{
+    "brand":"Microsft",
+    "version":"Power Point",
+    "price":10000,
+},
+1012;{
+    "brand":"Adobe",
+    "version":"Acrobat pro DC",
+    "price":12000,
+},
+1013;{
+    "brand":"windows",
+    "version":"7",
+    "price":4000,
+},
+1014;{
+    "brand":"windows",
+    "version":"7",
+    "price":4000,
+},
+1015;{
+    "brand":"windows",
+    "version":"7",
+    "price":4000,
+},
+}
